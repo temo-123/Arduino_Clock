@@ -1,1 +1,1 @@
-# arduino-clock-1
+This clock don't us RTC! You need only arduino!
